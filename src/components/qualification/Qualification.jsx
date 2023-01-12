@@ -79,7 +79,7 @@ const Qualification = () => {
                   PACA
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2015 - 2021
+                  <i className="uil uil-calendar-alt"></i> 2011 - 2012
                 </div>
               </div>
             </div>
@@ -98,7 +98,7 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Freelance</h3>
+                <h3 className="qualification__title">Dev Front-end</h3>
                 <span className="qualification__subtitle">
                   freelance
                 </span>
@@ -127,7 +127,7 @@ const Qualification = () => {
                   WIFIRST
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2015 - 2021
+                  <i className="uil uil-calendar-alt"></i> 2016 - 2021
                 </div>
               </div>
             </div>
@@ -137,7 +137,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Marketing TPE</h3>
                 <span className="qualification__subtitle">ECLS</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2012 - 2014
+                  <i className="uil uil-calendar-alt"></i> 2012 - 2016
                 </div>
               </div>
 

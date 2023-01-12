@@ -10,10 +10,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_x1hewh5",
-        "template_2ki8hlo",
+        "service_bg5cdmb",
+        "template_175f96a",
         form.current,
-        "vxDcl4UI2jbOQBn6f"
+        "aLJSYEUhVWgWkxC_c"
       )
       e.target.reset()
   };
@@ -44,28 +44,16 @@ const Contact = () => {
             </div>
 
             <div className="contact__card">
-              <i className="bx bxl-whatsapp contact__card-icon"></i>
+              <i className="bx bxl-linkedin contact__card-icon"></i>
 
-              <h3 className="contact__card-title">Whatsapp</h3>
-              <span className="contact__card-data">999-888-777</span>
+              <h3 className="contact__card-title">Linkedin</h3>
+              <span className="contact__card-data">Romain Gaudel</span>
 
               <a
-                href="https://api.whatsapp.com/send?phone=62214408789&text=Hello, more information!"
+                href="https://www.linkedin.com/in/romain-gaudel-526a44a5/"
                 className="contact__button"
               >
-                Write me{" "}
-                <i className="bx bx-right-arrow-alt contact__button-icon"></i>
-              </a>
-            </div>
-
-            <div className="contact__card">
-              <i className="bx bxl-messenger contact__card-icon"></i>
-
-              <h3 className="contact__card-title">Messenger</h3>
-              <span className="contact__card-data">user.fb123</span>
-
-              <a href="https://m.me/crypticalcoder" className="contact__button">
-                Write me{" "}
+                Me contacter{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
             </div>
@@ -108,7 +96,7 @@ const Contact = () => {
             </div>
 
             <button className="button button--flex">
-              Send Message
+              Envoyer le message
               <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
